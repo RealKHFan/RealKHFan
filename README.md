@@ -9,7 +9,7 @@
 
 ## About
 
-I build open-source replacements for the Google apps on my own phone: camera, files, notes, gallery and screen-time tools. They keep the Material You look people already know, run without Google Play Services, and none of them asks for internet access, so your photos, files and notes never leave the device.
+I build open-source replacements for the Google apps on my own phone: camera, files, notes, keyboard, gallery and screen-time tools. They keep the Material You look people already know, run without Google Play Services, and none of them asks for internet access, so your photos, files, notes and what you type never leave the device.
 
 They're made first for GrapheneOS on Pixel, and most of them run on any Android phone.
 
@@ -57,6 +57,21 @@ A Google Keep–style home screen and a rich editor: checklists, tables, LaTeX, 
 <a href="https://github.com/RealKHFan/notebound/releases/latest"><img src="assets/badges/download-apk.svg" height="38" alt="Download the Notebound APK"></a>
 
 <img src="assets/screens/notebound.png" width="100%" alt="Notebound screenshots: home screen, editor, checklist and dark theme">
+
+&nbsp;
+
+<a href="https://github.com/RealKHFan/tasto">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/apps/tasto-dark.svg">
+    <img src="assets/apps/tasto-light.svg" height="68" alt="Tasto: Keyboard">
+  </picture>
+</a>
+
+A SwiftKey-style keyboard for German, English, Russian and Japanese. German and English suggestions share one QWERTZ layout, and Japanese works through romaji or 12-key flick input with kana-to-kanji conversion. Tasto learns your words on the phone, lets you review and delete them, and goes incognito by itself in private browser tabs.
+
+<a href="https://github.com/RealKHFan/tasto/releases/latest"><img src="assets/badges/download-apk.svg" height="38" alt="Download the Tasto APK"></a>
+
+<img src="assets/screens/tasto.png" width="100%" alt="Tasto screenshots: German and English typing, Japanese flick input, Russian layout and privacy settings">
 
 &nbsp;
 
