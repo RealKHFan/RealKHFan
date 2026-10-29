@@ -86,6 +86,8 @@ The Google Photos layout: a day-by-day timeline with pinch-to-zoom, folders, inl
 
 <a href="https://github.com/RealKHFan/lumen/releases/latest"><img src="assets/badges/download-apk.svg" height="38" alt="Download the Lumen APK"></a>
 
+<img src="assets/screens/lumen.png" width="100%" alt="Lumen screenshots: photo timeline, folders, photo viewer and bin">
+
 &nbsp;
 
 <a href="https://github.com/RealKHFan/hourlock">
