@@ -101,6 +101,8 @@ About 60 KB in size. Track usage, get warnings, set daily limits or block apps o
 
 <a href="https://github.com/RealKHFan/hourlock/releases/latest"><img src="assets/badges/download-apk.svg" height="38" alt="Download the Hourlock APK"></a>
 
+<img src="assets/screens/hourlock.png" width="100%" alt="Hourlock screenshots: app list, warning popups, blocked notice and the red unlock screen">
+
 ## Tools
 
 <p>
